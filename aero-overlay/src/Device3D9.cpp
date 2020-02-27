@@ -184,7 +184,7 @@ bool Device3D9::render()
 
 
 			ImGui::SetNextWindowSize(ImVec2(800, 600), ImGuiCond_FirstUseEver);
-			if (ImGui::Begin("L33T Hacks by S1mple", &enabled, ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoCollapse))
+			if (ImGui::Begin("BDO Helper", &enabled, ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoCollapse))
 			{
 				
 				if (ImGui::BeginTabBar("DummyTabBar", ImGuiTabBarFlags_None))
