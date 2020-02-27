@@ -1,0 +1,83 @@
+{
+   "00:15": {
+      "Monday": ["Karanda", "Ancient Kutum"],
+      "Tuesday": ["Karanda"],
+      "Wednesday": ["Kzarka, The Lord of Corruption", "Ancient Kutum"],
+      "Thursday": ["Nouver"],
+      "Friday": ["Kzarka, The Lord of Corruption", "Karanda"],
+      "Saturday": ["Karanda"],
+      "Sunday": ["Nouver", "Ancient Kutum"]
+   },
+   "02:00": {
+      "Monday": ["Karanda"],
+      "Tuesday": ["Ancient Kutum"],
+      "Wednesday": ["Karanda"],
+      "Thursday": ["Ancient Kutum"],
+      "Friday": ["Nouver"],
+      "Saturday": ["Mirumok Destroyer Offin"],
+      "Sunday": ["Kzarka, The Lord of Corruption"]
+   },
+   "05:00": {
+      "Monday": ["Kzarka, The Lord of Corruption"],
+      "Tuesday": ["Kzarka, The Lord of Corruption"],
+      "Wednesday": ["Kzarka, The Lord of Corruption"],
+      "Thursday": ["Nouver"],
+      "Friday": ["Karanda"],
+      "Saturday": ["Nouver"],
+      "Sunday": ["Ancient Kutum"]
+   },
+   "09:00": {
+      "Monday": ["Kzarka, The Lord of Corruption"],
+      "Tuesday": ["Nouver"],
+      "Wednesday": ["Karanda"],
+      "Thursday": ["Ancient Kutum"],
+      "Friday": ["Ancient Kutum"],
+      "Saturday": ["Ancient Kutum"],
+      "Sunday": ["Nouver"]
+   },
+   "12:00": {
+      "Monday": ["Mirumok Destroyer Offin"],
+      "Tuesday": ["Ancient Kutum"],
+      "Wednesday": [""],
+      "Thursday": ["Nouver"],
+      "Friday": ["Karanda"],
+      "Saturday": ["Nouver"],
+      "Sunday": ["Kzarka, The Lord of Corruption"]
+   },
+   "16:00": {
+      "Monday": ["Ancient Kutum"],
+      "Tuesday": ["Nouver"],
+      "Wednesday": ["Ancient Kutum"],
+      "Thursday": ["Kzarka, The Lord of Corruption"],
+      "Friday": ["Nouver"],
+      "Saturday": ["MurakaQuint"],
+      "Sunday": ["Vell"]
+   },
+   "19:00": {
+      "Monday": ["Nouver"],
+      "Tuesday": ["Karanda"],
+      "Wednesday": ["Mirumok Destroyer Offin"],
+      "Thursday": ["Ancient Kutum"],
+      "Friday": ["Kzarka, The Lord of Corruption"],
+      "Saturday": ["Kzarka, The Lord of Corruption", "Karanda"],
+      "Sunday": ["Garmoth"]
+   },
+   "22:15": {
+      "Monday": ["Kzarka, The Lord of Corruption"],
+      "Tuesday": ["Garmoth"],
+      "Wednesday": ["Kzarka, The Lord of Corruption", "Karanda"],
+      "Thursday": ["Garmoth"],
+      "Friday": ["Kzarka, The Lord of Corruption", "Ancient Kutum"],
+      "Saturday": ["Conquest Wars"],
+      "Sunday": ["Nouver", "Kzarka, The Lord of Corruption"]
+   },
+   "23:15": {
+      "Monday": [""],
+      "Tuesday": [""],
+      "Wednesday": ["Muraka", "Quint"],
+      "Thursday": [""],
+      "Friday": [""],
+      "Saturday": [""],
+      "Sunday": [""]
+   }
+}
